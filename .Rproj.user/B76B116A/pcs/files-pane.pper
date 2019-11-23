@@ -1,0 +1,9 @@
+{
+    "path" : "~/my_blogdown",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
